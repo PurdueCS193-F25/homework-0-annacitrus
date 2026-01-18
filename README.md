@@ -32,7 +32,7 @@ Right now, there isn't any meaningful content on this website, just a placeholde
 
 Having just a template website is pretty boring. To edit your website to display more interesting content, go back to the main page for the **Purdue-CS193/homework-0-\<Your Github Username\>** repository.
 
-From here, click on the `index.md` file. You should see the same content you viewed at `https://Purdue-CS193.github.io/homework-0-<Your Github Username>/` except this time it is not themed.
+From here, click on the `index.md` file. You should see the same content you viewed at `https://purduecs193-f25.github.io/homework-0-<YOUR_GITHUB_USERNAME>-1/` except this time it is not themed.
 
 To edit this file, click on the **edit** button (it looks like a little pencil) in the upper right-hand corner of the file display. This will open a text editor where you can change the contents of the website to whatever you want. Take a few minutes to experiment with the different formatting tools that the website template tells you are available.
 
