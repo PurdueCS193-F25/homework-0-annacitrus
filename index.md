@@ -1,3 +1,11 @@
+#Anna Citron's First CS193 Homework#
+
+##Things I like about CS 193##
+- It is at a good time (not too early and not too late).
+- I am excited to learn how to use Github.
+- The professors seem really nice :)
+- I have class with my friends.
+
 ## Welcome to Anna's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
